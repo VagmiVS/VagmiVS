@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Vagmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vagmivs&label=Profile%20views&color=0e75b6&style=flat" alt="vagmivs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vagmivs&label=Profile%20views&color=b10eb4&style=plastic" alt="vagmivs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vagmivs" target="blank"><img src="https://img.shields.io/twitter/follow/vagmivs?logo=twitter&style=for-the-badge" alt="vagmivs" /></a> </p>
 
@@ -21,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/vagmivs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vagmivs" height="30" width="40" /></a>
 <a href="https://twitter.com/vagmivs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vagmivs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vagmivs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vagmivs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vagmivs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vagmivs" height="30" width="40" /></a>
 <a href="https://instagram.com/_ig_vagmi_67_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ig_vagmi_67_" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
